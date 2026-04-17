@@ -2,11 +2,12 @@
 
 Extract structured data from [pnet.co.za](https://pnet.co.za) — structured job listings from pnet.co.za — South Africa's leading job portal. Salary, company, location, full descriptions, contact info, and more.
 
-**[Pnet Scraper on Apify →](https://apify.com/blackfalcondata/pnet-scraper)**
+**[Pnet Scraper - South Africa Job Listings on Apify →](https://apify.com/blackfalcondata/pnet-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [pnet.co.za](https://pnet.co.za) — structured job
 ---
 
 ## Use cases
+
 
 
 
@@ -85,6 +87,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
